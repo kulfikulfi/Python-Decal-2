@@ -1,0 +1,216 @@
+Last login: Mon Sep 11 21:59:09 on ttys003
+malaikah@Malaikahs-MacBook-Air ~ % ls 
+Desktop					Public
+Documents				Terminal Saved Output for proof.txt
+Downloads				Terminal Saved Output.txt
+Library					crying in bachelor of art.py
+Movies					demo
+Music					hello_world.py
+Pictures				sticky note info.txt
+malaikah@Malaikahs-MacBook-Air ~ % cd desktop
+malaikah@Malaikahs-MacBook-Air desktop % ls
+---.textClipping
+Python-Decal
+Python-Decal-2
+Screenshot 2023-09-07 at 9.19.22 AM.png
+Screenshot 2023-09-09 at 1.06.40 PM.png
+Screenshot 2023-09-09 at 1.09.10 PM.png
+Screenshot 2023-09-09 at 11.17.00 AM.png
+Screenshot 2023-09-09 at 11.17.07 AM.png
+Screenshot 2023-09-09 at 11.17.13 AM.png
+Screenshot 2023-09-09 at 11.18.31 AM.png
+Screenshot 2023-09-09 at 11.21.30 AM.png
+Screenshot 2023-09-09 at 11.23.24 AM.png
+Screenshot 2023-09-09 at 11.31.15 AM.png
+Screenshot 2023-09-09 at 11.39.44 AM.png
+Screenshot 2023-09-09 at 11.44.16 AM.png
+Screenshot 2023-09-09 at 11.51.16 AM.png
+Screenshot 2023-09-09 at 11.53.32 AM.png
+Screenshot 2023-09-09 at 11.54.37 AM.png
+Screenshot 2023-09-09 at 12.11.31 PM.png
+Screenshot 2023-09-09 at 12.21.59 PM.png
+Screenshot 2023-09-09 at 12.22.25 PM.png
+Screenshot 2023-09-09 at 12.49.14 PM.png
+Screenshot 2023-09-10 at 12.33.42 PM.png
+Screenshot 2023-09-10 at 12.34.46 PM.png
+homework
+homeworks
+hw 2 proof.png
+lecture notes
+pset 2 (proof).txt
+malaikah@Malaikahs-MacBook-Air desktop % cd python-decal-2
+malaikah@Malaikahs-MacBook-Air python-decal-2 % ls
+README.md	myhomework
+malaikah@Malaikahs-MacBook-Air python-decal-2 % cd ..
+malaikah@Malaikahs-MacBook-Air desktop % git clone https://github.com/pydecal/homeworks.git
+fatal: destination path 'homeworks' already exists and is not an empty directory.
+malaikah@Malaikahs-MacBook-Air desktop % git clone https://github.com/pydecal/homeworks.git
+Cloning into 'homeworks'...
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (10/10), done.
+remote: Total 13 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (13/13), done.
+malaikah@Malaikahs-MacBook-Air desktop % pwd
+/Users/malaikah/desktop
+malaikah@Malaikahs-MacBook-Air desktop % ls
+---.textClipping
+Python-Decal
+Python-Decal-2
+Screenshot 2023-09-07 at 9.19.22 AM.png
+Screenshot 2023-09-09 at 1.06.40 PM.png
+Screenshot 2023-09-09 at 1.09.10 PM.png
+Screenshot 2023-09-09 at 11.17.00 AM.png
+Screenshot 2023-09-09 at 11.17.07 AM.png
+Screenshot 2023-09-09 at 11.17.13 AM.png
+Screenshot 2023-09-09 at 11.18.31 AM.png
+Screenshot 2023-09-09 at 11.21.30 AM.png
+Screenshot 2023-09-09 at 11.23.24 AM.png
+Screenshot 2023-09-09 at 11.31.15 AM.png
+Screenshot 2023-09-09 at 11.39.44 AM.png
+Screenshot 2023-09-09 at 11.44.16 AM.png
+Screenshot 2023-09-09 at 11.51.16 AM.png
+Screenshot 2023-09-09 at 11.53.32 AM.png
+Screenshot 2023-09-09 at 11.54.37 AM.png
+Screenshot 2023-09-09 at 12.11.31 PM.png
+Screenshot 2023-09-09 at 12.21.59 PM.png
+Screenshot 2023-09-09 at 12.22.25 PM.png
+Screenshot 2023-09-09 at 12.49.14 PM.png
+Screenshot 2023-09-10 at 12.33.42 PM.png
+Screenshot 2023-09-10 at 12.34.46 PM.png
+homework
+homeworks
+hw 2 proof.png
+lecture notes
+pset 2 (proof).txt
+malaikah@Malaikahs-MacBook-Air desktop % ls
+---.textClipping
+Python-Decal
+Python-Decal-2
+Screenshot 2023-09-07 at 9.19.22 AM.png
+Screenshot 2023-09-09 at 1.06.40 PM.png
+Screenshot 2023-09-09 at 1.09.10 PM.png
+Screenshot 2023-09-09 at 11.17.00 AM.png
+Screenshot 2023-09-09 at 11.17.07 AM.png
+Screenshot 2023-09-09 at 11.17.13 AM.png
+Screenshot 2023-09-09 at 11.18.31 AM.png
+Screenshot 2023-09-09 at 11.21.30 AM.png
+Screenshot 2023-09-09 at 11.23.24 AM.png
+Screenshot 2023-09-09 at 11.31.15 AM.png
+Screenshot 2023-09-09 at 11.39.44 AM.png
+Screenshot 2023-09-09 at 11.44.16 AM.png
+Screenshot 2023-09-09 at 11.51.16 AM.png
+Screenshot 2023-09-09 at 11.53.32 AM.png
+Screenshot 2023-09-09 at 11.54.37 AM.png
+Screenshot 2023-09-09 at 12.11.31 PM.png
+Screenshot 2023-09-09 at 12.21.59 PM.png
+Screenshot 2023-09-09 at 12.22.25 PM.png
+Screenshot 2023-09-09 at 12.49.14 PM.png
+Screenshot 2023-09-10 at 12.33.42 PM.png
+Screenshot 2023-09-10 at 12.34.46 PM.png
+homeworks
+hw 2 proof.png
+lecture notes
+pset 2 (proof).txt
+malaikah@Malaikahs-MacBook-Air desktop % cd homeworks
+malaikah@Malaikahs-MacBook-Air homeworks % ls
+README.md	surprise.txt
+malaikah@Malaikahs-MacBook-Air homeworks % cp -R ~/Desktop/homeworks/surprise.txt /Desktop/Python-Decal-2/surprise.txt
+cp: /Desktop/Python-Decal-2/surprise.txt: No such file or directory
+malaikah@Malaikahs-MacBook-Air homeworks % cd
+malaikah@Malaikahs-MacBook-Air ~ % ls
+Desktop					Public
+Documents				Terminal Saved Output for proof.txt
+Downloads				Terminal Saved Output.txt
+Library					crying in bachelor of art.py
+Movies					demo
+Music					hello_world.py
+Pictures				sticky note info.txt
+malaikah@Malaikahs-MacBook-Air ~ % cd desktop
+malaikah@Malaikahs-MacBook-Air desktop % ls
+---.textClipping
+Python-Decal
+Python-Decal-2
+Screenshot 2023-09-07 at 9.19.22 AM.png
+Screenshot 2023-09-09 at 1.06.40 PM.png
+Screenshot 2023-09-09 at 1.09.10 PM.png
+Screenshot 2023-09-09 at 11.17.00 AM.png
+Screenshot 2023-09-09 at 11.17.07 AM.png
+Screenshot 2023-09-09 at 11.17.13 AM.png
+Screenshot 2023-09-09 at 11.18.31 AM.png
+Screenshot 2023-09-09 at 11.21.30 AM.png
+Screenshot 2023-09-09 at 11.23.24 AM.png
+Screenshot 2023-09-09 at 11.31.15 AM.png
+Screenshot 2023-09-09 at 11.39.44 AM.png
+Screenshot 2023-09-09 at 11.44.16 AM.png
+Screenshot 2023-09-09 at 11.51.16 AM.png
+Screenshot 2023-09-09 at 11.53.32 AM.png
+Screenshot 2023-09-09 at 11.54.37 AM.png
+Screenshot 2023-09-09 at 12.11.31 PM.png
+Screenshot 2023-09-09 at 12.21.59 PM.png
+Screenshot 2023-09-09 at 12.22.25 PM.png
+Screenshot 2023-09-09 at 12.49.14 PM.png
+Screenshot 2023-09-10 at 12.33.42 PM.png
+Screenshot 2023-09-10 at 12.34.46 PM.png
+homeworks
+hw 2 proof.png
+lecture notes
+pset 2 (proof).txt
+malaikah@Malaikahs-MacBook-Air desktop % cd python-decal-2
+malaikah@Malaikahs-MacBook-Air python-decal-2 % cd ..
+malaikah@Malaikahs-MacBook-Air desktop % cd homeworks
+malaikah@Malaikahs-MacBook-Air homeworks % ls
+README.md	surprise.txt
+malaikah@Malaikahs-MacBook-Air homeworks % cp ~/Desktop/homeworks/surprise.txt ~/Desktop/python-decal-2/surprise.txt
+malaikah@Malaikahs-MacBook-Air homeworks % pwd
+/Users/malaikah/desktop/homeworks
+malaikah@Malaikahs-MacBook-Air homeworks % ls
+README.md	surprise.txt
+malaikah@Malaikahs-MacBook-Air homeworks % cd .. 
+malaikah@Malaikahs-MacBook-Air desktop % cd python-decal-2
+malaikah@Malaikahs-MacBook-Air python-decal-2 % ls
+README.md	myhomework	surprise.txt
+malaikah@Malaikahs-MacBook-Air python-decal-2 % open surprise.txt
+malaikah@Malaikahs-MacBook-Air python-decal-2 % pwd
+/Users/malaikah/desktop/python-decal-2
+malaikah@Malaikahs-MacBook-Air python-decal-2 % ls 
+README.md		myhomework		surprise edited.txt
+malaikah@Malaikahs-MacBook-Air python-decal-2 % git add . 
+malaikah@Malaikahs-MacBook-Air python-decal-2 % git commit -m 'i might actually jump out my window if this doesn't work' 
+quote> git push
+quote> ls               
+quote> '
+error: pathspec 'work 
+git push
+ls
+' did not match any file(s) known to git
+malaikah@Malaikahs-MacBook-Air python-decal-2 % git add . 
+malaikah@Malaikahs-MacBook-Air python-decal-2 % git commit -m "plz work"
+[main 37cca1f] plz work
+ Committer: Malaikah Khan <malaikah@Malaikahs-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+)
+ create mode 100644 myhomework
+ create mode 100644 surprise edited.txt
+malaikah@Malaikahs-MacBook-Air python-decal-2 % git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 803 bytes | 803.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/kulfikulfi/Python-Decal-2.git
+   c774f3a..37cca1f  main -> main
+malaikah@Malaikahs-MacBook-Air python-decal-2 % pwd
+/Users/malaikah/desktop/python-decal-2
+malaikah@Malaikahs-MacBook-Air python-decal-2 % 
