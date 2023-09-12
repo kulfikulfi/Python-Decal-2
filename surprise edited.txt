@@ -1,0 +1,21 @@
+Name: Malaikah Khan
+Student ID: 3039163844
+
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+A. pwd tells you where you are in your directory 
+   cd .. goes back a directory 
+   ls lists the directories/files you have in a directory
+
+   My computer terminal is in bash 
+
+2. Do you have pets? What kind?
+A. Yes (sort of), a tuxedo cat named Lillith. 
+
+3. If you run across an error, what would your first course of action be?
+A. google.com
+
+4. Funniest thing that happened to you in high school.
+A. Popped my elbow out of it's socket hula-hooping and promptly got hula-hoops banned at my hs :)
+
+5. What is a python script? (Keep it simple)
+A. A script ran in python (.py) as opposed to the other languages...
